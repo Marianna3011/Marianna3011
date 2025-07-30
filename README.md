@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Marianna Myszkowska
 ## 📫 Contact
 
-- 📧 Email: [your.email@example.com](marianna.z.myszkowska@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/marianna-myszkowska-96488b342/]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/marianna-myszkowska-96488b342/))  
+- 📧 Email: [marianna.z.myszkowska@gmail.com](marianna.z.myszkowska@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/marianna-myszkowska-96488b342/](https://www.linkedin.com/in/marianna-myszkowska-96488b342/)  
 
 🎓 **Aspiring Data Analyst & AI Student**  
 📍 Based in Poznań, Poland  
