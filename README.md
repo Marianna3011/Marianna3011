@@ -1,4 +1,8 @@
 # Hi there 👋 I'm Marianna Myszkowska
+## 📫 Contact
+
+- 📧 Email: [your.email@example.com](marianna.z.myszkowska@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/marianna-myszkowska-96488b342/]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/marianna-myszkowska-96488b342/))  
 
 🎓 **Aspiring Data Analyst & AI Student**  
 📍 Based in Poznań, Poland  
@@ -8,9 +12,11 @@
 
 ## 👩‍💻 About Me
 
-I'm currently pursuing a **Bachelor's in Artificial Intelligence** at **Poznan University of Technology**.  
-I enjoy solving real-world problems with data-driven and AI-powered solutions—from classical machine learning to modern neural networks.  
-I’m especially excited about automating workflows and building tools that make systems more efficient.
+I'm currently pursuing a **Bachelor’s in Artificial Intelligence** at **Poznan University of Technology**.  
+Since high school, I’ve been deeply interested in **data analysis**—curious about how raw information becomes actionable insight.  
+Over time, this interest evolved into a strong passion for **machine learning, automation, and AI**, with a focus on using data to drive real-world decisions and improvements.
+
+I enjoy building tools that combine analytics with intelligent automation, and I’m particularly excited by projects that reduce manual effort or increase clarity through visualization and intelligent systems.
 
 ---
 
@@ -31,6 +37,19 @@ I’m especially excited about automating workflows and building tools that make
 - **📄 Document Upload Automation Bot**  
   Developed a Python + Selenium tool with a GUI that automates document uploads from Excel-based metadata.  
   Used by a nationwide furniture company to streamline digital records processing.
+  
+- **📊 Supermarket Sales Dashboard (Power BI)**  
+  Created an interactive dashboard in Power BI using a Kaggle dataset to analyze supermarket sales performance.  
+  Integrated dynamic slicers and visuals for filtering by product type, location, and time.
+
+- **📚 Distributed Study Room Reservation System**  
+  Designed and built a distributed system for managing university study room reservations using **Cassandra**, **Docker**, and a **Tkinter GUI**.  
+  Focused on scalability, fault tolerance, and an intuitive user interface with microservice architecture.
+
+- **🎵 In Progress: Music Emotion Recognition**  
+  Currently working on a system to classify emotional content in music using the **MERGE dataset**.  
+  Exploring deep learning models and audio feature extraction for multilabel classification.
+
 
 ---
 
@@ -43,12 +62,13 @@ I’m especially excited about automating workflows and building tools that make
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools 
+My skills include, but are not limited to:
 
-- **Languages:** Python, R, SQL  
+- **Languages:** Python, R, SQL , C++ , Java, 
 - **Libraries/Frameworks:** TensorFlow, OpenCV, Pandas, Seaborn, Shiny  
-- **Tools:** Git, Power BI, Selenium  
-- **Domains:** Data Analysis, Machine Learning, Deep Learning, NLP, Computer Vision
+- **Tools:** Git, Power BI, Selenium , Jupyter Notebook, HTML
+- **Skills:** Data Analysis, Machine Learning, Deep Learning, NLP, Computer Vision
 
 ---
 
@@ -62,8 +82,9 @@ I’m especially excited about automating workflows and building tools that make
 
 ## 🧾 Certifications
 
-- **Power BI Course** – Santander (Marianna Myszkowska, July 21, 2025)  
-- **IELTS Academic** – C1 Level
+- **Power BI Course** – Certificate of Completion (Marianna Myszkowska, July 21, 2025)  
+- **IELTS Academic** – C1 Level  
+- **Google Data Analytics Professional Certificate** – *In Progress*
 
 ---
 
